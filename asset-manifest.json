@@ -1,24 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.8a6ac66c.chunk.css",
-    "main.js": "/static/js/main.ef0c9042.chunk.js",
-    "main.js.map": "/static/js/main.ef0c9042.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ec06c7b6.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ec06c7b6.js.map",
-    "static/js/2.aaf3529a.chunk.js": "/static/js/2.aaf3529a.chunk.js",
-    "static/js/2.aaf3529a.chunk.js.map": "/static/js/2.aaf3529a.chunk.js.map",
-    "static/js/3.44c656ac.chunk.js": "/static/js/3.44c656ac.chunk.js",
-    "static/js/3.44c656ac.chunk.js.map": "/static/js/3.44c656ac.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.8a6ac66c.chunk.css.map": "/static/css/main.8a6ac66c.chunk.css.map",
-    "static/js/2.aaf3529a.chunk.js.LICENSE.txt": "/static/js/2.aaf3529a.chunk.js.LICENSE.txt",
-    "static/media/NishthaBhatia.1286f818.jpg": "/static/media/NishthaBhatia.1286f818.jpg",
-    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
+    "main.css": "/index.html/static/css/main.8a6ac66c.chunk.css",
+    "main.js": "/index.html/static/js/main.9ef36a07.chunk.js",
+    "main.js.map": "/index.html/static/js/main.9ef36a07.chunk.js.map",
+    "runtime-main.js": "/index.html/static/js/runtime-main.e90687a0.js",
+    "runtime-main.js.map": "/index.html/static/js/runtime-main.e90687a0.js.map",
+    "static/js/2.74441b90.chunk.js": "/index.html/static/js/2.74441b90.chunk.js",
+    "static/js/2.74441b90.chunk.js.map": "/index.html/static/js/2.74441b90.chunk.js.map",
+    "static/js/3.cfe9be58.chunk.js": "/index.html/static/js/3.cfe9be58.chunk.js",
+    "static/js/3.cfe9be58.chunk.js.map": "/index.html/static/js/3.cfe9be58.chunk.js.map",
+    "index.html": "/index.html/index.html",
+    "static/css/main.8a6ac66c.chunk.css.map": "/index.html/static/css/main.8a6ac66c.chunk.css.map",
+    "static/js/2.74441b90.chunk.js.LICENSE.txt": "/index.html/static/js/2.74441b90.chunk.js.LICENSE.txt",
+    "static/media/NishthaBhatia.1286f818.jpg": "/index.html/static/media/NishthaBhatia.1286f818.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ec06c7b6.js",
-    "static/js/2.aaf3529a.chunk.js",
+    "static/js/runtime-main.e90687a0.js",
+    "static/js/2.74441b90.chunk.js",
     "static/css/main.8a6ac66c.chunk.css",
-    "static/js/main.ef0c9042.chunk.js"
+    "static/js/main.9ef36a07.chunk.js"
   ]
 }
