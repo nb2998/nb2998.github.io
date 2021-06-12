@@ -223,8 +223,7 @@ class home extends Component {
                   <span className="fa-li">
                     <i className="fas fa-trophy text-warning"></i>
                   </span>
-                  Travel grant and invitation to attend the Firebase Summit 2019
-                  in Madrid, Spain
+                  Travel grant and invitation to attend the Firebase Summit 2019 (Madrid, Spain)
                 </li>
                 <li>
                   <span className="fa-li">

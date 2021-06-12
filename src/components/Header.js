@@ -53,13 +53,13 @@ class Header extends Component {
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link js-scroll-trigger" href="#interests">
-                Interests
+              <a className="nav-link js-scroll-trigger" href="#awards">
+                Accomplishments
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link js-scroll-trigger" href="#awards">
-                Awards
+              <a className="nav-link js-scroll-trigger" href="#interests">
+                Interests
               </a>
             </li>
           </ul>
