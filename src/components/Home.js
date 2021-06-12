@@ -30,6 +30,7 @@ class home extends Component {
                   className="social-icon"
                   href="https://www.linkedin.com/in/nb2998"
                   target="_blank"
+                  rel="noreferrer"
                 >
                   <i className="fab fa-linkedin-in"></i>
                 </a>
@@ -37,6 +38,7 @@ class home extends Component {
                   className="social-icon"
                   href="https://nb2998.medium.com"
                   target="_blank"
+                  rel="noreferrer"
                 >
                   <i className="fab fa-medium"></i>
                 </a>
@@ -44,6 +46,7 @@ class home extends Component {
                   className="social-icon"
                   href="https://github.com/nb2998"
                   target="_blank"
+                  rel="noreferrer"
                 >
                   <i className="fab fa-github"></i>
                 </a>
@@ -51,6 +54,7 @@ class home extends Component {
                   className="social-icon"
                   href="https://twitter.com/nbhatia329"
                   target="_blank"
+                  rel="noreferrer"
                 >
                   <i className="fab fa-twitter"></i>
                 </a>
@@ -58,6 +62,7 @@ class home extends Component {
                   className="social-icon"
                   href="https://stackoverflow.com/users/8356593/nb2998"
                   target="_blank"
+                  rel="noreferrer"
                 >
                   <i class="fab fa-stack-overflow"></i>
                 </a>
