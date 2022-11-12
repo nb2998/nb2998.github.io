@@ -76,6 +76,16 @@ class home extends Component {
               <h2 className="mb-5">Experience</h2>
               <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
                 <div className="flex-grow-1">
+                  <h3 className="mb-0">Software Engineer 2</h3>
+                  <div className="subheading mb-3">Intuit Inc.</div>
+                  <p></p>
+                </div>
+                <div className="flex-shrink-0">
+                  <span className="text-primary">August 2022 - Present</span>
+                </div>
+              </div>
+              <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
+                <div className="flex-grow-1">
                   <h3 className="mb-0">Software Engineer 1</h3>
                   <div className="subheading mb-3">Intuit Inc.</div>
                   <p></p>
